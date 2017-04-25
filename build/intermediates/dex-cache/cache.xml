@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/f2d119f19f0a77fd395c553c79eaa096df8f9d34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_91ee8dc2069741fb660e05b7949157a9f091627b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/00a6ed7a2d9ba03a95b6efd13ade13bebdd50389/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_faaa71372f362daceec1d696ed369c27e82521ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/5041dca35f9b747c25f28f859b923495609d6e45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_ee1596f225744767c69fcbdb1d9540536cc7a68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/c0a6894e4159b56bfec8aa53ce84e32c85f33cf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_0460aa6b930b14e51b574a1a1d80f030c9a36b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Development/adt-bundle-mac/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_2cddd130246afca87b12e15b305d1d480637de08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/3790d053403d258838e1bff1c9a8f5a5ecbb67c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_77ad39c8a60c4e17326f4885404a0f09c24e8634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/56be1976b0231e8dfc7eb7225437e5fe8ce0523f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_d340111b85ef8ea24b95c7c7c8144bb0fa86b79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/0ef4055bd744d7a61cceb12533e591d5916e3abf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_96d253c15fe639af35b122f2129238bee9b28d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/94fb999193be60cb6b55e27c41f653ecd6ca5928/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_d7819b9f70feda8bb25bcd353308f7cb8045b970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/50a0cd202132efd69502f528546de0c67f1fc621/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_c9b82580cb2a8c315b3b5d8af0ca7e55492a842d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/47c2a1b75eda37df165734f6ba9e542747802220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_768e0c6d4e7f0c11adc9184db1ac4132503db6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/8b7b14051d8fddca0db8c9f19f2f1209e0445c10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_2eb8a1f29d19b01305bd6eed5854f87c196a71e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/39d7d23453a1f96ec0f2b4d2a3c69673ab9b6fce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_05b029f01e2c3f85afa6f039d7fe9affa3e19137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/9e46ec2c7036c4aee1e66ea1a789b232ae392f2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/classes_191952d787da594a4b37f4291861155c35c78c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Development/adt-bundle-mac/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/mac/Android新特性/MVP/AppMvp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_96beb177ee45ae77228b6a0242d78245018f9a46.jar" />
+    </item>
+
+</items>
